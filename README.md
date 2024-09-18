@@ -69,9 +69,3 @@ We welcome contributions! Please follow these steps:
 - Fork the repository.
 - Create a new branch for your feature or bug fix.
 - Open a pull request.
-
----
-
-## 📞 **Contact Information**
-- Vinay Kumar – [LinkedIn](https://www.linkedin.com/in/vinay-kumar860964/)
-- Rohit Kumar – [LinkedIn](https://www.linkedin.com/in/rohit21oc/)
