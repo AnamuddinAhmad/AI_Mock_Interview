@@ -8,7 +8,7 @@ Check The Project Activity: [Click Here](https://ai-interview-mocker.vercel.app/
 
 ## 🚀 **Project Overview** 
 - 🤖 **Project Name**: AI Mock Interview
-- 🎓 **Developers**: Rohit Kumar and Vinay Kumar, IT Department Final Year Students, DSCET
+- 🎓 **Developers**: Anamuddin Ahmad ,Dpependara Raj Amit ,M.Kavitha ,Kaif Ali ,Durgesh Kumar and Prince Kumar Ram, IT Department Final Year Students and One second year sutdent, DSCET
 - 🧠 **Purpose**: This project provides a personalized AI-driven mock interview experience that adapts to job descriptions and offers dynamic, real-time feedback to users.
 
 ---
@@ -45,7 +45,7 @@ Check The Project Activity: [Click Here](https://ai-interview-mocker.vercel.app/
 ## 🔧 **How to Run This Project**
 1. **Clone the Repository**:
     ```bash
-    git clone git@github.com:Vinaykumarmahato/AI-Mock-Interview-Platform.git
+    git clone git@github.com:anamuddinahmad/AI-Mock-Interview-Platform.git
     ```
 
 2. **Install Dependencies**:
